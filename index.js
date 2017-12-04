@@ -38,7 +38,10 @@ let teamConfig = {
         }
     ],
     plugins: [
-        'steamer-plugin-mock'
+        'steamer-plugin-mock',
+        'steamer-plugin-jb',
+        'steamer-plugin-ak',
+        'steamer-plugin-alloystore'
     ],
     beforeInstall: function() {
 
