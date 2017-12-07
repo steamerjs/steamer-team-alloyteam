@@ -1,6 +1,6 @@
 {
   "name": "steamer-team-alloyteam",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "steamer-team-alloyteam",
   "main": "index.js",
   "bin": "index.js",

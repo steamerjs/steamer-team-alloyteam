@@ -41,7 +41,11 @@ let teamConfig = {
         'steamer-plugin-mock',
         'steamer-plugin-jb',
         'steamer-plugin-ak',
-        'steamer-plugin-alloystore'
+        'steamer-plugin-alloystore',
+        'steamer-plugin-task'
+    ],
+    tasks: [
+        'steamer-task-alloyteam'
     ],
     beforeInstall: function() {
 
