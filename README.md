@@ -8,7 +8,7 @@ alloyteam steamerjs 团队配置
 ## 配置
 
 ```javascript
-NPM = npm
+NPM = tnpm // 请到内网下载 tnpm
 TEAM = alloyteam
 ```
 
