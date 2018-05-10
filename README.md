@@ -24,6 +24,10 @@ TEAM = alloyteam
 
 ## 命令行插件
 * [steamer-plugin-mock](https://github.com/steamerjs/steamer-plugin-mock)
+* [steamer-plugin-jb](https://github.com/steamerjs/steamer-plugin-jb)
+* [steamer-plugin-ak](https://github.com/steamerjs/steamer-plugin-ak)
+* [steamer-plugin-alloystore](https://github.com/steamerjs/steamer-plugin-alloystore)
+* [steamer-plugin-task](https://github.com/steamerjs/steamer-plugin-task)
 
 ## 任务
 * [steamer-task-alloyteam](https://github.com/steamerjs/steamer-plugin-task)
