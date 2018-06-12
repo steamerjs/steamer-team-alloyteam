@@ -9,6 +9,10 @@ let teamConfig = {
             'git': 'https://github.com/steamerjs/steamer-react.git'
         },
         {
+            'name': 'steamer-react-hy',
+            'git': 'http://git.code.oa.com/steamer/steamer-react-hy.git'
+        },
+        {
             'name': 'steamer-vue',
             'git': 'https://github.com/steamerjs/steamer-vue.git'
         },
