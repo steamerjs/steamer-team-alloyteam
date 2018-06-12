@@ -21,6 +21,7 @@ TEAM = alloyteam
 * [steamer-vue-component](https://github.com/steamerjs/steamer-vue-component)
 * [steamer-simple-component](https://github.com/steamerjs/steamer-simple-component)
 * [steamer-logic-component](https://github.com/steamerjs/steamer-logic-component)
+* [steamer-kit-library](https://github.com/steamerjs/steamer-kit-library)
 
 ## 命令行插件
 * [steamer-plugin-mock](https://github.com/steamerjs/steamer-plugin-mock)

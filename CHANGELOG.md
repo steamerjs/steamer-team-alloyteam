@@ -1,4 +1,4 @@
-## 1.0.6
+## 1.0.7
 	- 新增 `steamer-kit-library`
     - 删除 `steamer-react-hy`
 

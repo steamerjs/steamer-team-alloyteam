@@ -1,6 +1,6 @@
 {
   "name": "@tencent/steamer-team-alloyteam",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "steamer-team-alloyteam",
   "main": "index.js",
   "bin": "index.js",
