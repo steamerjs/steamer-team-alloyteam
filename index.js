@@ -9,10 +9,6 @@ let teamConfig = {
             'git': 'https://github.com/steamerjs/steamer-react.git'
         },
         {
-            'name': 'steamer-react-hy',
-            'git': 'http://git.code.oa.com/steamer/steamer-react-hy.git'
-        },
-        {
             'name': 'steamer-vue',
             'git': 'https://github.com/steamerjs/steamer-vue.git'
         },
@@ -35,6 +31,10 @@ let teamConfig = {
         {
             'name': 'steamer-logic-component',
             'git': 'https://github.com/steamerjs/steamer-logic-component.git'
+        },
+        {
+            'name': 'steamer-kit-library',
+            'git': 'https://github.com/steamerjs/steamer-kit-library.git'
         }
     ],
     plugins: [
