@@ -14,13 +14,13 @@ TEAM = alloyteam
 
 ## 脚手架
 * [steamer-react](https://github.com/steamerjs/steamer-react)
-* [steamer-react-hy](http://git.code.oa.com/steamer/steamer-react-hy)
 * [steamer-vue](https://github.com/steamerjs/steamer-vue)
 * [steamer-simple](https://github.com/steamerjs/steamer-simple)
 * [steamer-react-component](https://github.com/steamerjs/steamer-react-component)
 * [steamer-vue-component](https://github.com/steamerjs/steamer-vue-component)
 * [steamer-simple-component](https://github.com/steamerjs/steamer-simple-component)
 * [steamer-logic-component](https://github.com/steamerjs/steamer-logic-component)
+* [steamer-kit-library](https://github.com/steamerjs/steamer-kit-library)
 
 ## 命令行插件
 * [steamer-plugin-mock](https://github.com/steamerjs/steamer-plugin-mock)
